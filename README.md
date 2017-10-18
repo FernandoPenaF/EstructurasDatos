@@ -1,7 +1,7 @@
 # EstructurasDatos
 ITAM - (COM - 11102)
 
-Repositorio referente a la materia Estructuras de datos avanzadas (COM - 11103).
+Repositorio referente a la materia Estructuras de datos (COM - 11102).
 
 Se incluyen los siguientes proyectos implementados en Java:
 	
